@@ -7,4 +7,4 @@
   - 날개라는 검색어를 콘솔에 입력해주면 자동으로 해당 웹페이지를 가서
   - 스크린샷을 찍은 뒤 종료했다.
   - 사진첨부
-  <img src="C:\pythonProject\dataCrawling\selenium\website.png">
+  <img src="C:\pythonProject\dataCrawling\selenium\website.png" width="700" height="370">
