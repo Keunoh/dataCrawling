@@ -20,3 +20,4 @@ if response.status_code == 200:
 else:
     print(response.status_code)
 
+# 커밋을 위한 용도입니다.
